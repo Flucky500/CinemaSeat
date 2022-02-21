@@ -16,6 +16,9 @@ public class Main {
         CinemaSeat seat12row21 = new CinemaSeat(30,21,true);
         System.out.println(seat12row10.cinemaSeatChecker(30,21,true));
 
+        CinemaSeat seat10row10 = new CinemaSeat(10,10,true);
+        System.out.println(seat12row10.cinemaSeatChecker(10,10,true));
+
     }
 
 }
